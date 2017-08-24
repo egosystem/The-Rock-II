@@ -5,10 +5,10 @@ Fellesverkstedet open source screen printing exposure unit
 
 Rock the 2nd
 	
-Parts list                                            supplier		                        price
+Parts list					supplier		                        price
 
 Outer box
-- valchromat 2500x1250 16mm x 7pcs	                  ff			                            850 x 7 = nok 5.950,-
+- valchromat 2500x1250 16mm x 7pcs		ff			                            850 x 7 = nok 5.950,-
 - glass 6-10mm 						                            henrik, hør om dims
 
 Hardware
