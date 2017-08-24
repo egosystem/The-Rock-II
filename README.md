@@ -54,7 +54,7 @@ aliexpress
 start timer: vacuum on + countdown x sec for vacuum to complete>lights on x sec>lights and vacuum off.
 - in/out air fans						
 - heater							                               
-keenovo 15x4200mm 220v 250w silicone heater kjøpt
+keenovo 15x4200mm 220v 250w silicone heater kjøpt usd 50/nok 400
 <br>http://elmaterialer.no/varmefolie-1m-heat-plus-60w-m2-1510231019-000000200387-4442.html
 
 
