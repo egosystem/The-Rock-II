@@ -46,7 +46,7 @@ Make plastic mesh covers on the laser for every air passage
 
 Technical
 - vacuum pump oil free 1,5l+			                   
-venturipumpe kjøpt
+venturipumpe kjøpt = usd 50/nok 400 
 - LED lights smd 5050 72m			                       
 aliexpress
 - LED driver/power supply >840w		
