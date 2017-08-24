@@ -30,7 +30,7 @@ norsk stål
 norsk stål		
 - Alu frame (+welding)				                        
 felles			
-- <font color = "green">neoprene</font> (+sewing)					                        
+<font color = "green">- neoprene</font> (+sewing)					                        
 aliexpress		                      
 usd 25/yard - width 130 cm x 4 = usd100/nok 800 kjøpt
 - alu strips 3x0.2 á 5m x 2pcs			                  
