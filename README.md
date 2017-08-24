@@ -19,7 +19,7 @@ henrik, hør om dims
 Hardware
 - traction gas springs x2
 - gas shocks x2
-https://www.aliexpress.com/item/Set-of-2pcs-Tailgate-Boot-Gas-Struts-Shock-Struts-for-Trailer-Box-Caravans-Camper-Canopy-830MM/32492751367.html
+<br>https://www.aliexpress.com/item/Set-of-2pcs-Tailgate-Boot-Gas-Struts-Shock-Struts-for-Trailer-Box-Caravans-Camper-Canopy-830MM/32492751367.html
 - Alu angles 5x3x0.4 á 6m x 5pcs		                  
 norsk stål		                      
 0,84 kg/m x kr 103/kg = nok 2.700,-
@@ -55,7 +55,7 @@ start timer: vacuum on + countdown x sec for vacuum to complete>lights on x sec>
 - in/out air fans						
 - heater							                               
 keenovo 15x4200mm 220v 250w silicone heater kjøpt
-http://elmaterialer.no/varmefolie-1m-heat-plus-60w-m2-1510231019-000000200387-4442.html
+<br>http://elmaterialer.no/varmefolie-1m-heat-plus-60w-m2-1510231019-000000200387-4442.html
 
 
 Notater:	
